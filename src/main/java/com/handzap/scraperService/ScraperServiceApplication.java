@@ -1,13 +1,13 @@
-package com.handzap.scrapperService;
+package com.handzap.scraperService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScrapperServiceApplication {
+public class ScraperServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ScrapperServiceApplication.class, args);
+		SpringApplication.run(ScraperServiceApplication.class, args);
 	}
 
 }

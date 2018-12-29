@@ -11,7 +11,7 @@
 	<groupId>com.handzap</groupId>
 	<artifactId>scrapperService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>scrapperService</name>
+	<name>scraperService</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
